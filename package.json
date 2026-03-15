@@ -1,0 +1,27 @@
+{
+  "name": "digest-factory",
+  "version": "0.1.0",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=20.0.0" },
+  "scripts": {
+    "collect": "node scripts/collect-rss.js",
+    "filter": "node scripts/filter-ai.js",
+    "translate": "node scripts/translate-ai.js",
+    "generate-daily": "npm run collect && npm run filter && npm run translate",
+    "newsletter": "node scripts/send-newsletter.js",
+    "clean": "rm -f content/raw-articles.json content/scored-articles.json content/filtered-articles.json",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "js-yaml": "^4.1.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^6.27.0",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "vitest": "^4.0.18"
+  }
+}

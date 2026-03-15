@@ -1,0 +1,9 @@
+node_modules/
+.env
+content/raw-articles.json
+content/scored-articles.json
+content/filtered-articles.json
+frontend/build/
+frontend/.svelte-kit/
+frontend/node_modules/
+logs/

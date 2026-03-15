@@ -1,0 +1,131 @@
+# site.yaml — Remote Work Daily Digest
+# ── Identity ──
+site:
+  id: remote-work
+  url: https://news.remote.thewang.net
+  title:
+    en: 'Remote Work Daily Digest'
+    zh: '远程工作日知录'
+    ja: 'リモートワーク日知録'
+  subtitle:
+    en: 'Remote work & digital nomad news, daily.'
+    zh: '每天五分钟，掌握远程工作与数字游民动态'
+    ja: 'リモートワークとデジタルノマドの最新情報を毎日'
+  description:
+    en: 'Daily curated remote work and digital nomad news. Covering remote job boards, co-living spaces, visa policies, and the distributed work ecosystem.'
+    zh: '远程工作日报 — 每天精选远程工作与数字游民动态，覆盖远程职位、共居空间、签证政策和分布式工作生态。'
+    ja: 'リモートワーク＆デジタルノマドの厳選日刊ダイジェスト。リモート求人、コリビングスペース、ビザ政策、分散型ワークエコシステムから毎日配信。'
+  keywords:
+    en: 'remote work news, digital nomad, work from anywhere, distributed teams, remote jobs, daily digest'
+    zh: '远程工作新闻, 数字游民, 远程办公, 分布式团队, 远程职位, 每日简报'
+    ja: 'リモートワークニュース, デジタルノマド, どこでもワーク, 分散チーム, リモート求人, デイリーダイジェスト'
+  hashtag:
+    en: '#RemoteWorkDigest'
+    zh: '#远程工作日知录'
+    ja: '#リモートワーク日知録'
+
+# ── Theme ──
+theme:
+  style: minimal
+  fonts:
+    display: "'Inter', system-ui, sans-serif"
+    sans: "'Inter', 'Noto Sans SC', 'Noto Sans JP', system-ui, sans-serif"
+    mono: "'JetBrains Mono', ui-monospace, monospace"
+    google: "family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700"
+  colors:
+    dark:
+      bg: '#0e1519'
+      surface: '#152028'
+      surface2: '#1c2a34'
+      border: '#2a3e4c'
+      borderGlow: '#20B2AA22'
+      text: '#c4d6de'
+      textMuted: '#5a8090'
+      accent: '#20B2AA'
+      secondary: '#FF8C5A'
+      green: '#66BB6A'
+      amber: '#FFB74D'
+      heading: '#e8f4f8'
+    light:
+      bg: '#f4f9f8'
+      surface: '#ffffff'
+      surface2: '#ecf4f2'
+      border: '#c8dcd8'
+      borderGlow: '#20B2AA18'
+      text: '#2a3a3e'
+      textMuted: '#5a7a78'
+      accent: '#0e8c86'
+      secondary: '#d46838'
+      green: '#388e3c'
+      amber: '#e68a00'
+      heading: '#0a1e1c'
+
+# ── Data Sources ──
+sources:
+  rss:
+    - { url: 'https://remoteok.com/remote-jobs.rss', name: 'Remote OK', weight: 9 }
+    - { url: 'https://weworkremotely.com/remote-jobs.rss', name: 'We Work Remotely', weight: 9 }
+    - { url: 'https://blog.remote.com/feed/', name: 'Remote.com Blog', weight: 8 }
+    - { url: 'https://buffer.com/resources/feed/', name: 'Buffer Blog', weight: 7 }
+    - { url: 'https://blog.hubstaff.com/feed/', name: 'Hubstaff Blog', weight: 7 }
+    - { url: 'https://news.google.com/rss/search?q=remote+work+OR+%22work+from+anywhere%22+OR+%22digital+nomad%22&hl=en-US&gl=US&ceid=US:en', name: 'Google News Remote Work', weight: 7 }
+    - { url: 'https://news.google.com/rss/search?q=%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC+OR+%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91+OR+%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C&hl=zh-CN&gl=CN&ceid=CN:zh-Hans', name: 'Google News Remote (CN)', weight: 6 }
+    - { url: 'https://news.google.com/rss/search?q=%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%8E%E3%83%9E%E3%83%89&hl=ja&gl=JP&ceid=JP:ja', name: 'Google News Remote (JP)', weight: 6 }
+
+  hackernews:
+    enabled: true
+    query: 'remote work OR "work from anywhere" OR "digital nomad" OR "distributed team"'
+    weight: 8
+
+  huggingface:
+    enabled: false
+    weight: 0
+
+# ── Editorial ──
+editorial:
+  prompt: config/prompts/editorial.md
+  min_articles: 3
+  featured_count: [2, 3]
+  quicknews_count: [4, 6]
+
+# ── Labels ──
+labels:
+  featured: { en: 'FEATURED', zh: '深度解读', ja: '特集' }
+  signal: { en: 'SIGNAL', zh: '信号', ja: 'シグナル' }
+  archive: { en: 'ARCHIVE', zh: '往期', ja: 'アーカイブ' }
+  backToday: { en: 'BACK TO TODAY', zh: '返回今日', ja: '今日に戻る' }
+  empty: { en: 'NO SIGNAL TODAY.', zh: '// 今日无信号', ja: '// 本日シグナルなし' }
+  sources: { en: 'sources scanned', zh: '条资讯已扫描', ja: '件スキャン済み' }
+  fromSources: { en: 'SRC', zh: '来源', ja: 'SRC' }
+  subscribe: { en: 'SUBSCRIBE', zh: '订阅', ja: '購読' }
+  emailPlaceholder: { en: 'you@example.com', zh: '你的邮箱', ja: 'メールアドレス' }
+  stayUpdated: { en: 'STAY UPDATED', zh: '保持关注', ja: '最新情報を受け取る' }
+  stayUpdatedDesc:
+    en: 'Daily remote work digest, straight to your inbox.'
+    zh: '每日远程工作简报，直达邮箱。'
+    ja: 'リモートワークの日刊ダイジェストをメールでお届け。'
+  cta: { en: 'READ FULL DIGEST', zh: '阅读完整日报', ja: '全文を読む' }
+
+sponsor: null
+
+newsletter:
+  provider: buttondown
+  username: thewang
+
+about:
+  title: { en: 'HOW IT WORKS', zh: '运作方式', ja: '仕組み' }
+  overview:
+    en: 'Remote Work Daily Digest is a fully automated remote work and digital nomad news briefing. Every day, the system collects articles from remote job boards, distributed work blogs, and tech news — then scores and filters them through a multi-stage AI pipeline.'
+    zh: '远程工作日知录是一份全自动的远程工作与数字游民日报。系统每天从远程招聘平台、分布式工作博客和科技新闻采集文章，经过多阶段 AI 流水线评分筛选。'
+    ja: 'リモートワーク日知録は完全自動化されたリモートワーク＆デジタルノマドのニュースブリーフィングです。リモート求人サイト、分散型ワークブログ、テックニュースから毎日記事を収集し、多段階AIパイプラインで評価・フィルタリングします。'
+  policyAudience:
+    en: 'Target audience: Remote workers, digital nomads, and distributed team managers.'
+    zh: '目标读者：远程工作者、数字游民和分布式团队管理者。'
+    ja: '対象読者：リモートワーカー、デジタルノマド、分散チームマネージャー。'
+  disclaimer:
+    en: 'Headlines and analysis paragraphs are generated by AI and may contain inaccuracies. All original reporting belongs to their respective sources.'
+    zh: '标题和分析段落由 AI 生成，可能存在不准确之处。所有原始报道版权归各自来源所有。'
+    ja: '見出しと分析パラグラフはAIにより生成されており、不正確な場合があります。すべてのオリジナル記事は各ソースに帰属します。'
+
+schedule:
+  cron: '0 7 * * *'
