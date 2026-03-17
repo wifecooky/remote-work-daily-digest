@@ -1,5 +1,6 @@
 import fs from 'fs/promises';
 import OpenAI from 'openai';
+import { loadSiteConfig } from './lib/config.js';
 
 const BATCH_SIZE = 5;
 const BATCH_DELAY_MS = 1000;
@@ -133,7 +134,12 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   );
 
   const allArticles = [...filtered.featured, ...filtered.quickNews];
-  const today = new Date().toISOString().split('T')[0];
+  const today = process.env.DIGEST_DATE || new Date().toISOString().split('T')[0];
+
+  const config = loadSiteConfig();
+  const totalSources = (config.sources.rss || []).length
+    + (config.sources.hackernews?.enabled ? 1 : 0)
+    + (config.sources.huggingface?.enabled ? 1 : 0);
 
   // English version (no translation needed)
   const enContent = {
@@ -142,7 +148,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     featured: filtered.featured,
     quickNews: filtered.quickNews,
     metadata: {
-      totalArticles: allArticles.length,
+      totalArticles: totalSources,
       estimatedReadTime: '5 min',
       generatedAt: new Date().toISOString()
     }
@@ -163,7 +169,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     featured: zhFeatured,
     quickNews: zhQuickNews,
     metadata: {
-      totalArticles: zhFeatured.length + zhQuickNews.length,
+      totalArticles: totalSources,
       estimatedReadTime: '5 分钟',
       generatedAt: new Date().toISOString()
     }
@@ -184,7 +190,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     featured: jaFeatured,
     quickNews: jaQuickNews,
     metadata: {
-      totalArticles: jaFeatured.length + jaQuickNews.length,
+      totalArticles: totalSources,
       estimatedReadTime: '5 分',
       generatedAt: new Date().toISOString()
     }
