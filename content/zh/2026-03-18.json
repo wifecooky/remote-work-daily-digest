@@ -1,0 +1,121 @@
+{
+  "date": "2026-03-18",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "31c743d6dcb18b44f0de35a88913976b222036e1e3810451b589b431239f5148",
+      "source": "We Work Remotely",
+      "title": "我们远程工作：数字分析工程师 (GA4 / GTM)",
+      "url": "https://weworkremotely.com/remote-jobs/we-work-remotely-digital-analytics-engineer-ga4-gtm",
+      "summary": "总部：远程",
+      "publishedAt": "2026-03-18T01:17:15.000Z",
+      "score": 44,
+      "relatedCount": 2,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "我们远程工作：数字分析工程师 (GA4 / GTM)",
+      "suggestedSummary": "总部：远程",
+      "category": "featured"
+    },
+    {
+      "id": "1d8df52c0685b99ffe7bc5507a5ddc470b80c0b29fa3fc730b7f9b48d7764f86",
+      "source": "Google News Remote Work",
+      "title": "某些信用卡在偏远的阿拉斯加无法顺利使用 - thetraveler.org",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRkVoRWp0ZldHeTVTMFpZVFlWS3JnNEs2Z3lVbndaZHlXTWtHQWxIek1FdTRjM185QWsxWGhWazZhblMtdFVIOXg1cE1haG9YM0tNNFpGNUpScFpEUURSMjk1VzE2OU9uS2stTFQ2RHVncS0zNG9GcnVEaVYwX3hweUVDNHpITG5EWGRZaA?oc=5",
+      "summary": "某些信用卡在偏远的阿拉斯加无法顺利使用 - thetraveler.org",
+      "publishedAt": "2026-03-18T02:38:51.000Z",
+      "score": 37,
+      "relatedCount": 1,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "某些信用卡在偏远的阿拉斯加无法顺利使用 - thetraveler.org",
+      "suggestedSummary": "某些信用卡在偏远的阿拉斯加无法顺利使用 - thetraveler.org",
+      "category": "featured"
+    },
+    {
+      "id": "fd27835171a8956a77b4ffef47ca38e8f06770dc5f202ce644795a42cfc2b2a9",
+      "source": "Google News Remote Work",
+      "title": "OneDosh简化远程工作者的跨境支付 - Punch报纸",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUJBemp5SnJwWHRRb0RURHp4LWZGWFpBZllwWUhpbTBTd2UzQW1pUjMxTzZRSGdSamk3S0d1c0VMbW9WVGVfdG5LLUhHY0RINXZIc2Y1RzBhVjJOVGpYNmxUb3pPa3FQWWpKV2g0V3dLeld6bUNhSlliTk16WjlGSHhfc1dLU09GY2RsQlo5WlBNSHBfZlE0Q1JNR2pBMWN3VDBCRWtKdncxTm0zRnlONW9qN3d2bjZFMlZpR1pB?oc=5",
+      "summary": "OneDosh简化远程工作者的跨境支付  Punch报纸",
+      "publishedAt": "2026-03-18T04:22:21.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "OneDosh简化远程工作者的跨境支付 - Punch报纸",
+      "suggestedSummary": "OneDosh简化远程工作者的跨境支付  Punch报纸",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "d2e96b422201d01a2587810aad2a9678104db4b73bd41d44bb5d9264ba24ad41",
+      "source": "Google News Remote (JP)",
+      "title": "如果现在进行《深夜特急》的旅行，泽木耕太郎先生考虑的新规则 - 朝日新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHaFdvdi1hWThEdWNydGNUdG0zNDMwOUJONXQwY2ZyRG1QdTBiYzN6cF9ianREb3hUOWVKd3RlaVNtNXNJN2hTWjR2bktrZ3JRNDFuUWNNV0VOUm13NnZXR2F5YVU2TEU?oc=5",
+      "summary": "如果现在进行《深夜特急》的旅行，泽木耕太郎先生考虑的新规则 朝日新闻",
+      "publishedAt": "2026-03-18T04:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4851987208de4e2b4fb60f0a8d1297247b518b4969f1ac4d7ff84946072a30a7",
+      "source": "Google News Remote (JP)",
+      "title": "在家工作，拥有专用房间的人更难集中注意力？即使是单独房间也无法避免的最大障碍是什么 - MyNavi新闻",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IQklxcW9CSFRmLVhTaE82Q3FkOVYwNHBJZ190bDRlWHRHa2gzQkZOTG1DZDJUeXBMZXhyM0lDMWllQ0ZIdVdCQzViM1Bpd01xT1pHaDF1VDVuQUdk?oc=5",
+      "summary": "在家工作，拥有专用房间的人更难集中注意力？即使是单独房间也无法避免的最大障碍是什么 - MyNavi新闻",
+      "publishedAt": "2026-03-18T01:39:50.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "48659f9e4b0fd9622f002bf16d0ea9aafbdb666562cd846e10faf47173b8ec14",
+      "source": "We Work Remotely",
+      "title": "Lucyd Media：着陆页设计师，专注于转化率",
+      "url": "https://weworkremotely.com/remote-jobs/lucyd-media-landing-page-designer-conversion-focused",
+      "summary": "总部：远程办公",
+      "publishedAt": "2026-03-17T21:44:17.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a983a99feb06b01b2f22103f21607696e1da31efaa239d091d916cd131051c01",
+      "source": "We Work Remotely",
+      "title": "Quinstreet：首席营收官产品助理",
+      "url": "https://weworkremotely.com/remote-jobs/quinstreet-cro-product-associate",
+      "summary": "总部：美国\n\n推动数字媒体的绩效市场QuinStreet是推动去中心化在线市场的先驱，这些市场将搜索者和“研究与比较”消费者与品牌匹配。我们在全国最大的媒体网络之一中运营这些虚拟和私有标签市场。我们行业领先的细分和AI驱动的匹配技术帮助消费者更快地找到更好的解决方案和品牌。它们使品牌能够更精准地定位和接触市场中的消费者……",
+      "publishedAt": "2026-03-17T20:31:34.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d016c25f649a2040b81c19dfe2408852831f658cc5e88e2562e086160d214808",
+      "source": "We Work Remotely",
+      "title": "Mesh：产品资金流动总监",
+      "url": "https://weworkremotely.com/remote-jobs/mesh-director-of-product-money-movement",
+      "summary": "总部：美国 - 远程办公",
+      "publishedAt": "2026-03-17T20:31:34.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "7c81b5d17cedc6ee4b380a72c32028ccfc255616bfd16d0ea7f39cc44151d5e6",
+      "source": "We Work Remotely",
+      "title": "珍珠：德国客户支持副经理",
+      "url": "https://weworkremotely.com/remote-jobs/pearl-associate-manager-german-customer-support",
+      "summary": "总部：乌克兰\n\n关于我们\n珍珠是全球范围内专业服务的人工智能——结合先进的人工智能与经过验证的人类专业知识，提供准确、可靠和快速的帮助。自2003年以来，我们的网络已将数百万客户与来自196个国家的持证专业人士连接起来，使真正的专业知识随时随地可用。\n\n关于该职位\n德国客户支持副经理负责德国客户支持团队的日常监督……",
+      "publishedAt": "2026-03-17T20:31:26.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 9,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-03-18T07:22:53.950Z"
+  }
+}

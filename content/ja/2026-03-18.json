@@ -1,0 +1,121 @@
+{
+  "date": "2026-03-18",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "31c743d6dcb18b44f0de35a88913976b222036e1e3810451b589b431239f5148",
+      "source": "We Work Remotely",
+      "title": "リモートワーク: デジタルアナリティクスエンジニア (GA4 / GTM)",
+      "url": "https://weworkremotely.com/remote-jobs/we-work-remotely-digital-analytics-engineer-ga4-gtm",
+      "summary": "本社所在地: リモート",
+      "publishedAt": "2026-03-18T01:17:15.000Z",
+      "score": 44,
+      "relatedCount": 2,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "リモートワーク: デジタルアナリティクスエンジニア (GA4 / GTM)",
+      "suggestedSummary": "本社所在地: リモート",
+      "category": "featured"
+    },
+    {
+      "id": "1d8df52c0685b99ffe7bc5507a5ddc470b80c0b29fa3fc730b7f9b48d7764f86",
+      "source": "Google News Remote Work",
+      "title": "一部のクレジットカードはアラスカの遠隔地でスムーズに機能しない - thetraveler.org",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRkVoRWp0ZldHeTVTMFpZVFlWS3JnNEs2Z3lVbndaZHlXTWtHQWxIek1FdTRjM185QWsxWGhWazZhblMtdFVIOXg1cE1haG9YM0tNNFpGNUpScFpEUURSMjk1VzE2OU9uS2stTFQ2RHVncS0zNG9GcnVEaVYwX3hweUVDNHpITG5EWGRZaA?oc=5",
+      "summary": "一部のクレジットカードはアラスカの遠隔地でスムーズに機能しない - thetraveler.org",
+      "publishedAt": "2026-03-18T02:38:51.000Z",
+      "score": 37,
+      "relatedCount": 1,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "一部のクレジットカードはアラスカの遠隔地でスムーズに機能しない - thetraveler.org",
+      "suggestedSummary": "一部のクレジットカードはアラスカの遠隔地でスムーズに機能しない - thetraveler.org",
+      "category": "featured"
+    },
+    {
+      "id": "fd27835171a8956a77b4ffef47ca38e8f06770dc5f202ce644795a42cfc2b2a9",
+      "source": "Google News Remote Work",
+      "title": "OneDosh、リモートワーカーのための国境を越えた支払いを簡素化 - パンチ新聞",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUJBemp5SnJwWHRRb0RURHp4LWZGWFpBZllwWUhpbTBTd2UzQW1pUjMxTzZRSGdSamk3S0d1c0VMbW9WVGVfdG5LLUhHY0RINXZIc2Y1RzBhVjJOVGpYNmxUb3pPa3FQWWpKV2g0V3dLeld6bUNhSlliTk16WjlGSHhfc1dLU09GY2RsQlo5WlBNSHBfZlE0Q1JNR2pBMWN3VDBCRWtKdncxTm0zRnlONW9qN3d2bjZFMlZpR1pB?oc=5",
+      "summary": "OneDosh、リモートワーカーのための国境を越えた支払いを簡素化 - パンチ新聞",
+      "publishedAt": "2026-03-18T04:22:21.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "OneDosh、リモートワーカーのための国境を越えた支払いを簡素化 - パンチ新聞",
+      "suggestedSummary": "OneDosh、リモートワーカーのための国境を越えた支払いを簡素化 - パンチ新聞",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "d2e96b422201d01a2587810aad2a9678104db4b73bd41d44bb5d9264ba24ad41",
+      "source": "Google News Remote (JP)",
+      "title": "If You Were to Embark on a 'Midnight Express' Journey Now: New Rules Considered by Kotaro Sawaki - Asahi Shimbun",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHaFdvdi1hWThEdWNydGNUdG0zNDMwOUJONXQwY2ZyRG1QdTBiYzN6cF9ianREb3hUOWVKd3RlaVNtNXNJN2hTWjR2bktrZ3JRNDFuUWNNV0VOUm13NnZXR2F5YVU2TEU?oc=5",
+      "summary": "If You Were to Embark on a 'Midnight Express' Journey Now: New Rules Considered by Kotaro Sawaki - Asahi Shimbun",
+      "publishedAt": "2026-03-18T04:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4851987208de4e2b4fb60f0a8d1297247b518b4969f1ac4d7ff84946072a30a7",
+      "source": "Google News Remote (JP)",
+      "title": "在宅ワーク、専用部屋がある人ほど集中できない？個室でも防げない最大の障壁とは - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IQklxcW9CSFRmLVhTaE82Q3FkOVYwNHBJZ190bDRlWHRHa2gzQkZOTG1DZDJUeXBMZXhyM0lDMWllQ0ZIdVdCQzViM1Bpd01xT1pHaDF1VDVuQUdk?oc=5",
+      "summary": "在宅ワークにおいて、専用の部屋を持つ人々が必ずしも集中できるわけではないという現象が見られています。個室の有無に関わらず、集中を妨げる最大の障壁について探ります。",
+      "publishedAt": "2026-03-18T01:39:50.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "48659f9e4b0fd9622f002bf16d0ea9aafbdb666562cd846e10faf47173b8ec14",
+      "source": "We Work Remotely",
+      "title": "Lucyd Media: ランディングページデザイナー、コンバージョン重視",
+      "url": "https://weworkremotely.com/remote-jobs/lucyd-media-landing-page-designer-conversion-focused",
+      "summary": "本社所在地: リモート\n\nURL: https://www.wearelucyd.com/\n\n社会的意識の高いブランドの世界で素晴らしい影響を与える機会をお探しですか？\n\nLucyd Mediaは、CBD、カンナビス、その他のDTCウェルネスeコマースブランドのコンプライアント広告を専門とするソーシャル広告代理店です。私たちの使命は、Conscious Compounds™の流通を促進することで、人間の苦痛を軽減し、人間の可能性を最大化することです。\n\n現在、強力なランディングページ（LP）を求めています…",
+      "publishedAt": "2026-03-17T21:44:17.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a983a99feb06b01b2f22103f21607696e1da31efaa239d091d916cd131051c01",
+      "source": "We Work Remotely",
+      "title": "クインストリート：CROプロダクトアソシエイト",
+      "url": "https://weworkremotely.com/remote-jobs/quinstreet-cro-product-associate",
+      "summary": "本社所在地：アメリカ合衆国\n\nデジタルメディアにおけるパフォーマンスマーケットプレイスの推進クインストリートは、検索者や「調査・比較」消費者とブランドを結びつける分散型オンラインマーケットプレイスを推進するパイオニアです。私たちは、国内最大級のメディアネットワークの一つで、これらのバーチャルおよびプライベートラベルのマーケットプレイスを運営しています。当社の業界をリードするセグメンテーションとAI駆動のマッチング技術は、消費者がより良いソリューションやブランドを迅速に見つけるのを助けます。これにより、ブランドは市場内でのターゲティングとリーチを可能にします…",
+      "publishedAt": "2026-03-17T20:31:34.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d016c25f649a2040b81c19dfe2408852831f658cc5e88e2562e086160d214808",
+      "source": "We Work Remotely",
+      "title": "メッシュ: プロダクトマネーマネジメントディレクター",
+      "url": "https://weworkremotely.com/remote-jobs/mesh-director-of-product-money-movement",
+      "summary": "本社所在地: アメリカ合衆国 - リモート",
+      "publishedAt": "2026-03-17T20:31:34.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "7c81b5d17cedc6ee4b380a72c32028ccfc255616bfd16d0ea7f39cc44151d5e6",
+      "source": "We Work Remotely",
+      "title": "パール: アソシエイトマネージャー、ドイツ語カスタマーサポート",
+      "url": "https://weworkremotely.com/remote-jobs/pearl-associate-manager-german-customer-support",
+      "summary": "本社所在地: ウクライナ",
+      "publishedAt": "2026-03-17T20:31:26.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 9,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-03-18T07:23:08.546Z"
+  }
+}
