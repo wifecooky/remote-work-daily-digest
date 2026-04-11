@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-11",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "7b4502adf40dfa80056f1378a31b021190e9b108f38009226e33bc8612339ddd",
+      "source": "Google News Remote (JP)",
+      "title": "【居家办公】拥有专用工作室能提高专注力吗？无法通过技巧解决的问题 - 雅虎新闻",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uVExZc2JEV05CamwtMDk3Z0hDVURDNmRoTzdLX04tVHU1dE1JM2R0c1NKbkg2RVVORUZUZjdjbms2YXdQTm9IVW1YdTdBR1ZDcU8weWJIS2ZRNlpSX1pjUEtyckVHMzI4djFyQ2hqTFgxN2tyV0tGSUUtcXp4X1E?oc=5",
+      "summary": "【居家办公】拥有专用工作室能提高专注力吗？无法通过技巧解决的问题 - 雅虎新闻",
+      "publishedAt": "2026-04-11T07:00:21.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "【居家办公】拥有专用工作室能提高专注力吗？无法通过技巧解决的问题 - 雅虎新闻",
+      "suggestedSummary": "【居家办公】拥有专用工作室能提高专注力吗？无法通过技巧解决的问题 - 雅虎新闻",
+      "category": "featured"
+    },
+    {
+      "id": "d99fccad6031f7ed4b3e7861421c5c3786f597ccde5e55b944b034dd38f88efa",
+      "source": "Google News Remote (JP)",
+      "title": "【居家办公】有专用的工作室是否能提高专注力？即使有技巧也无法解决的问题 - au Web门户",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sT1NpZm1PcllyVTdrcks4OHpWU19FdGQxWDRQRG1OZ1VON2lWMnhlUWJVRnd0ZjRiTG9kekw3ejZYaEdnUlh5M1h5RlJoRFN6elpnU2ZwTXV2V2E5eXlaVW9PZGQtcTZTTmFtbmc2Xzh1ZU92bG1HUVo1aw?oc=5",
+      "summary": "【居家办公】有专用的工作室是否能提高专注力？即使有技巧也无法解决的问题 - au Web门户",
+      "publishedAt": "2026-04-11T07:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "【居家办公】有专用的工作室是否能提高专注力？即使有技巧也无法解决的问题 - au Web门户",
+      "suggestedSummary": "【居家办公】有专用的工作室是否能提高专注力？即使有技巧也无法解决的问题 - au Web门户",
+      "category": "featured"
+    },
+    {
+      "id": "1e4b0882159c2787b2ce3a7f0ae4d0e615493131795778306b8e8edb38630c00",
+      "source": "We Work Remotely",
+      "title": "Clerky：客户运营与写作专家",
+      "url": "https://weworkremotely.com/remote-jobs/clerky-customer-operations-writing-specialist",
+      "summary": "总部：美国\n\n网址：https://www.clerky.com\n\nClerky的客户运营有何不同\n\n在这里工作要困难得多。由于客户问题的细致和专业性，帮助他们可能会异常具有挑战性。做好这项工作可能需要大量的迭代反馈，因此我们正在寻找那些对自己的写作进行批判性思考并始终寻找改进方法的人。在此过程中，您还将获得大量关于初创企业的知识。",
+      "publishedAt": "2026-04-10T22:27:34.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "Clerky：客户运营与写作专家",
+      "suggestedSummary": "总部：美国\n\n网址：https://www.clerky.com\n\nClerky的客户运营有何不同\n\n在这里工作要困难得多。由于客户问题的细致和专业性，帮助他们可能会异常具有挑战性。做好这项工作可能需要大量的迭代反馈，因此我们正在寻找那些对自己的写作进行批判性思考并始终寻找改进方法的人。在此过程中，您还将获得大量关于初创企业的知识。",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "bc9b566c8db9db619b8491847890b70aad72f46583d47d2c47db4caa8df1060d",
+      "source": "We Work Remotely",
+      "title": "Giftly, Inc：客户支持邮件专员",
+      "url": "https://weworkremotely.com/remote-jobs/giftly-inc-customer-support-email-specialist",
+      "summary": "总部：旧金山",
+      "publishedAt": "2026-04-10T21:31:09.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2063a8b09c4b31118d4335bdd9528a240f6fd664e0c34830c94c964afb4ea95b",
+      "source": "We Work Remotely",
+      "title": "Jimdo：体验设计负责人",
+      "url": "https://weworkremotely.com/remote-jobs/jimdo-head-of-experience-design",
+      "summary": "总部：德国",
+      "publishedAt": "2026-04-10T20:31:31.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d26ac982c9941a6bfe19a8e6bdca9a383a74906b5555156a9ce8382f88f6f9c1",
+      "source": "We Work Remotely",
+      "title": "Ssc人力资源解决方案：系统设计/解决方案架构师",
+      "url": "https://weworkremotely.com/remote-jobs/ssc-hr-solutions-system-design-solution-architect",
+      "summary": "总部：埃及，开罗省，开罗",
+      "publishedAt": "2026-04-10T20:31:28.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "6d164fc56cdbf51dd9361151a48cd6e8e90671a119a21b2bb39709cad5a22a6c",
+      "source": "We Work Remotely",
+      "title": "Deblock：高级金融犯罪产品负责人",
+      "url": "https://weworkremotely.com/remote-jobs/deblock-senior-fincrime-product-owner",
+      "summary": "总部：波兰",
+      "publishedAt": "2026-04-10T20:31:28.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "db044e1f298af2afcb0ff91ed2d642704c7069ef5b4602754aff1d1ef816131a",
+      "source": "We Work Remotely",
+      "title": "招聘海外员工：客户支持专家（AI SaaS平台）",
+      "url": "https://weworkremotely.com/remote-jobs/hire-overseas-customer-support-specialist-ai-saas-platform",
+      "summary": "总部：南非\n\n我们正在寻找一位客户支持专家，能够为不断发展的AI语音自动化平台用户提供快速、周到且技术上知情的支持。您将处理入站问题、排除故障、指导开发人员和非技术用户，并帮助塑造流畅的端到端客户体验。如果您喜欢解决问题、清晰沟通，并在以产品为中心、快速发展的AI环境中工作，那么这个角色将非常适合您。",
+      "publishedAt": "2026-04-10T20:31:17.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "7649a01d4ede23242509f9cf9fbda31fc309d753e3aaf682c1740fb4e2717a4b",
+      "source": "We Work Remotely",
+      "title": "马尼拉招聘：全栈开发人员（.NET 和 React）（远程工作）- #34881",
+      "url": "https://weworkremotely.com/remote-jobs/manila-recruitment-full-stack-developer-net-react-wfh-34881",
+      "summary": "总部：菲律宾\n\n作为一名全栈开发人员，您将在一个快速扩张的初创公司中发挥关键作用，负责推动前端和后端开发，以确保项目的及时成功。\n\n在一个敏捷开发团队中工作，开发、测试和维护基于微软技术构建的全栈网络应用程序，后端托管在 AWS 上。\n\n参加每日站会，与跨职能团队合作，识别并解决复杂问题，并努力…",
+      "publishedAt": "2026-04-10T20:31:12.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 9,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-11T07:21:53.546Z"
+  }
+}
