@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-06",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "a62ec9b26f35b307d671a6093067ecde6ca62734047f7e349613c9cac0369e73",
+      "source": "We Work Remotely",
+      "title": "WALTER：高级全栈工程师（Ruby+React）",
+      "url": "https://weworkremotely.com/remote-jobs/walter-senior-fullstack-engineer-ruby-react",
+      "summary": "总部：远程",
+      "publishedAt": "2026-05-06T04:23:01.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "WALTER：高级全栈工程师（Ruby+React）",
+      "suggestedSummary": "总部：远程",
+      "category": "featured"
+    },
+    {
+      "id": "d306a90161a7e28b34fe910cc3d9e0f4d025c7100718610e56b66f97ede916a8",
+      "source": "We Work Remotely",
+      "title": "WALTER：全栈工程负责人",
+      "url": "https://weworkremotely.com/remote-jobs/walter-full-stack-engineering-lead",
+      "summary": "总部：远程办公\n\n网址：http://gowalter.co\n\n描述\n我们的客户是一家多学科数字产品代理机构，致力于帮助创作者建立持久的遗产。自2020年以来，他们在内容与商业交汇的最佳点上构建产品，赋能成熟的创作者和以内容为导向的企业，将他们的热情转化为可持续的成功。\n关于该职位\n我们正在招聘一名具有深厚后端专业知识和现代Web技术栈流利度的工程负责人。…",
+      "publishedAt": "2026-05-06T02:47:32.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "WALTER：全栈工程负责人",
+      "suggestedSummary": "总部：远程办公\n\n网址：http://gowalter.co\n\n描述\n我们的客户是一家多学科数字产品代理机构，致力于帮助创作者建立持久的遗产。自2020年以来，他们在内容与商业交汇的最佳点上构建产品，赋能成熟的创作者和以内容为导向的企业，将他们的热情转化为可持续的成功。\n关于该职位\n我们正在招聘一名具有深厚后端专业知识和现代Web技术栈流利度的工程负责人。…",
+      "category": "featured"
+    },
+    {
+      "id": "67eaf2b6f216a27dad7ffbb17036a3c1f7687b60ca61ffd76ec06dd118d82efb",
+      "source": "Google News Remote Work",
+      "title": "远程工作统计2026：关键采用和生产力数据 - SQ杂志",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LSi1kYUMtckZQNGR3V1l3QjlyWXhXdWZfVmE0em5oN0ZnMHJObmQ0UXdzcDBONEk5R0pNSGVXc3B5MDFINTVQSl9jQjlUU1NMcWZPcHZSSV9jc3FK?oc=5",
+      "summary": "远程工作统计2026：关键采用和生产力数据 SQ杂志",
+      "publishedAt": "2026-05-06T04:18:45.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "远程工作统计2026：关键采用和生产力数据 - SQ杂志",
+      "suggestedSummary": "远程工作统计2026：关键采用和生产力数据 SQ杂志",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "19537291608126633950c62a83f44c04cc58a181cbbc64e6ef22a43f0dc54b0e",
+      "source": "We Work Remotely",
+      "title": "Toptal：英语筛选员",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-english-screener",
+      "summary": "总部：远程\n\n网址：https://www.toptal.com/\n\n摘要：\nToptal 是一个由全球顶尖自由职业软件开发人员、设计师、金融专家、产品经理和项目经理组成的独家网络。顶级公司为其最重要的项目聘请 Toptal 的自由职业者。\n我们目前正在寻找一名新的英语筛选团队成员。在这个按小时计费的远程工作中，您将作为申请者进入 Toptal 网络的首批接触点之一……",
+      "publishedAt": "2026-05-05T21:29:28.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "290164e03013faf24e62eb1a1b14326c16889c8a1ff0036bb34e9f8fc1f3115e",
+      "source": "We Work Remotely",
+      "title": "杰夫·默里编程店, 公司：经验丰富的软件开发人员",
+      "url": "https://weworkremotely.com/remote-jobs/jeff-murray-s-programming-shop-inc-experienced-software-developer",
+      "summary": "总部：\n\n网址：https://www.jprog.com\n\n职位名称：软件开发人员\n工作地点：100% 远程（仅限美国大陆。要求美国中部时间核心工作时间。）\n职位类型：全职\n关于我们：\njProg 在 HIV 公共卫生领域开发创新的软件解决方案，致力于通过技术改善健康结果。\n我们的旗舰平台 CAREWare 是一个安全的三层 Web 应用程序，被数百个州、市/县卫生部门和主要的 HIV 门诊使用…",
+      "publishedAt": "2026-05-05T21:19:26.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "85f02fba50e26ed4dec4165b02d9a8d55ddf2df42c3fa962cd92a8b3489cb956",
+      "source": "Google News Remote Work",
+      "title": "燃料成本上升促使员工改变通勤方式并要求远程工作 - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95dVFVRWQ3UmtYdy03S1B1S003LUhRTkNWelVjdUc5N2hnUTc0Vkc1YUxhZDBaX1B0SGYtaFJxczVrRV94UFN1NF9xT05BV1E3dHJmSmlTSTFVbmhFdmZGVko1WmRXUQ?oc=5",
+      "summary": "燃料成本上升促使员工改变通勤方式并要求远程工作 mezha.net",
+      "publishedAt": "2026-05-05T21:53:49.000Z",
+      "score": 22,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "31e7c6a83aa327c602d75a4dcb94f60764db0a7dfd19c24c66ac5ff0634fb834",
+      "source": "Google News Remote Work",
+      "title": "美国人才在远程工作热潮中迁往海外 - latination.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xQnFWR1YtWHdoZC1rbnJSTzhNV0NaWnljcXdnTWJBRGN4Q283NTBVVFpYTV9Id0FaQWp4RnNxbTM4X29hVThFcXhhU2x0TkpPUjcybElzNjcyelBmNXhRYjFVSDFWM2pkVTVB?oc=5",
+      "summary": "美国人才在远程工作热潮中迁往海外 latination.com",
+      "publishedAt": "2026-05-05T21:14:53.000Z",
+      "score": 22,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b31f84c83f35787c4439496987a239144fbbd1710e4f617e43f43df51ed72fa6",
+      "source": "Google News Remote Work",
+      "title": "为什么居家办公影响你的晋升 - AFR",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHBVRndVZEZ2MnFtc013czNrTjZ1dzlVZ0haQ1pWWDduQkRvR1haTUhFSmt1U2VjN0lSbDE2d3BveHlRTmlpWmxkbHlhU1h2XzdHenNPQXR3UkpJNC1BRGd5TU9hdkZCX2RfTGNvQnJQc3o1dlZBeFF2TlRJdi1rdzFadXNyMzZxY2VLWG9FUUREd1RGSi1jWkMtb3BsOVpXSXNnWktROXdWX3NRUXAw?oc=5",
+      "summary": "为什么居家办公影响你的晋升 - AFR",
+      "publishedAt": "2026-05-05T21:26:00.000Z",
+      "score": 22,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "59b4098888b82f6294de192a0f4a9f80fe51559cc36a1f4c353bc2cd8e64b619",
+      "source": "Google News Remote (CN)",
+      "title": "Spain Confirms Digital Nomad Visa Monthly Income Requirement of 2,762 Euros, Policy Valid Until 2026 - VisaHQ",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaThUR1hlSFZIRnFJWVNiWmQ3a200R0phOF91ckN5NnBMbHNhYTdGeGZrUFBqcWJPaDlhVDFFcVpFeDhLQ2NnV3R3RUZXYzY5cmtLWUVLUHFXQnFYM3c0VGV4VWdjejFMbTJ5Z1NZR1ZUc25WMWg0M3ZMSzh0UG9vNHUyRWI5ZTQ5SW51dXREQUpqRFJ1ck9qVFhUbWNhdGpZcm5tdU5icVlWX0V4TXRuclRvSDYwNjg2cFVGN0RtWFRTaFJhQU9F?oc=5",
+      "summary": "Spain Confirms Digital Nomad Visa Monthly Income Requirement of 2,762 Euros, Policy Valid Until 2026  VisaHQ",
+      "publishedAt": "2026-05-06T00:55:37.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 9,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-06T07:47:53.958Z"
+  }
+}

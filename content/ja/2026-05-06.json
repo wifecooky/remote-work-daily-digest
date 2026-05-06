@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-06",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "a62ec9b26f35b307d671a6093067ecde6ca62734047f7e349613c9cac0369e73",
+      "source": "We Work Remotely",
+      "title": "WALTER: シニアフルスタックエンジニア (Ruby+React)",
+      "url": "https://weworkremotely.com/remote-jobs/walter-senior-fullstack-engineer-ruby-react",
+      "summary": "本社所在地: リモート",
+      "publishedAt": "2026-05-06T04:23:01.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "WALTER: シニアフルスタックエンジニア (Ruby+React)",
+      "suggestedSummary": "本社所在地: リモート",
+      "category": "featured"
+    },
+    {
+      "id": "d306a90161a7e28b34fe910cc3d9e0f4d025c7100718610e56b66f97ede916a8",
+      "source": "We Work Remotely",
+      "title": "WALTER: フルスタックエンジニアリングリード",
+      "url": "https://weworkremotely.com/remote-jobs/walter-full-stack-engineering-lead",
+      "summary": "本社所在地: リモート",
+      "publishedAt": "2026-05-06T02:47:32.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "WALTER: フルスタックエンジニアリングリード",
+      "suggestedSummary": "本社所在地: リモート",
+      "category": "featured"
+    },
+    {
+      "id": "67eaf2b6f216a27dad7ffbb17036a3c1f7687b60ca61ffd76ec06dd118d82efb",
+      "source": "Google News Remote Work",
+      "title": "リモートワーク統計2026: 主要な採用と生産性データ - SQマガジン",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LSi1kYUMtckZQNGR3V1l3QjlyWXhXdWZfVmE0em5oN0ZnMHJObmQ0UXdzcDBONEk5R0pNSGVXc3B5MDFINTVQSl9jQjlUU1NMcWZPcHZSSV9jc3FK?oc=5",
+      "summary": "リモートワーク統計2026: 主要な採用と生産性データ  SQマガジン",
+      "publishedAt": "2026-05-06T04:18:45.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "リモートワーク統計2026: 主要な採用と生産性データ - SQマガジン",
+      "suggestedSummary": "リモートワーク統計2026: 主要な採用と生産性データ  SQマガジン",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "19537291608126633950c62a83f44c04cc58a181cbbc64e6ef22a43f0dc54b0e",
+      "source": "We Work Remotely",
+      "title": "Toptal: 英語審査員",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-english-screener",
+      "summary": "本社所在地: リモート\n\nURL: https://www.toptal.com/\n\n概要:\nToptalは、世界中のトップフリーランスソフトウェア開発者、デザイナー、金融専門家、プロダクトマネージャー、プロジェクトマネージャーの排他的なネットワークです。トップ企業は、最も重要なプロジェクトのためにToptalのフリーランサーを雇用しています。\n現在、私たちは英語審査チームの新しいメンバーを探しています。この時間単位のリモート契約では、Toptalネットワークに参加する応募者にとって最初の接点の一つとして機能します。",
+      "publishedAt": "2026-05-05T21:29:28.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "290164e03013faf24e62eb1a1b14326c16889c8a1ff0036bb34e9f8fc1f3115e",
+      "source": "We Work Remotely",
+      "title": "ジェフ・マレーのプログラミングショップ株式会社：経験豊富なソフトウェア開発者",
+      "url": "https://weworkremotely.com/remote-jobs/jeff-murray-s-programming-shop-inc-experienced-software-developer",
+      "summary": "本社所在地：\n\nURL: https://www.jprog.com\n\n職種: ソフトウェア開発者\n勤務地: 100%リモート（アメリカ合衆国本土のみ。アメリカ中部時間のコアタイムが必要。）\n雇用形態: フルタイム\n会社概要:\njProgは、HIV公衆衛生分野において革新的なソフトウェアソリューションを開発し、技術を通じて健康成果の向上に深くコミットしています。\n当社の主力プラットフォームであるCAREWareは、数百の州、市/郡の保健部門および主要な外来HIV...",
+      "publishedAt": "2026-05-05T21:19:26.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "85f02fba50e26ed4dec4165b02d9a8d55ddf2df42c3fa962cd92a8b3489cb956",
+      "source": "Google News Remote Work",
+      "title": "燃料費の高騰が労働者に通勤方法の変更とリモートワークの要求を促す - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95dVFVRWQ3UmtYdy03S1B1S003LUhRTkNWelVjdUc5N2hnUTc0Vkc1YUxhZDBaX1B0SGYtaFJxczVrRV94UFN1NF9xT05BV1E3dHJmSmlTSTFVbmhFdmZGVko1WmRXUQ?oc=5",
+      "summary": "燃料費の高騰が労働者に通勤方法の変更とリモートワークの要求を促す  mezha.net",
+      "publishedAt": "2026-05-05T21:53:49.000Z",
+      "score": 22,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "31e7c6a83aa327c602d75a4dcb94f60764db0a7dfd19c24c66ac5ff0634fb834",
+      "source": "Google News Remote Work",
+      "title": "リモートワークブームの中、アメリカの人材が海外へ移動",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xQnFWR1YtWHdoZC1rbnJSTzhNV0NaWnljcXdnTWJBRGN4Q283NTBVVFpYTV9Id0FaQWp4RnNxbTM4X29hVThFcXhhU2x0TkpPUjcybElzNjcyelBmNXhRYjFVSDFWM2pkVTVB?oc=5",
+      "summary": "リモートワークブームの中、アメリカの人材が海外へ移動 latination.com",
+      "publishedAt": "2026-05-05T21:14:53.000Z",
+      "score": 22,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b31f84c83f35787c4439496987a239144fbbd1710e4f617e43f43df51ed72fa6",
+      "source": "Google News Remote Work",
+      "title": "なぜ在宅勤務が昇進を妨げるのか - AFR",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHBVRndVZEZ2MnFtc013czNrTjZ1dzlVZ0haQ1pWWDduQkRvR1haTUhFSmt1U2VjN0lSbDE2d3BveHlRTmlpWmxkbHlhU1h2XzdHenNPQXR3UkpJNC1BRGd5TU9hdkZCX2RfTGNvQnJQc3o1dlZBeFF2TlRJdi1rdzFadXNyMzZxY2VLWG9FUUREd1RGSi1jWkMtb3BsOVpXSXNnWktROXdWX3NRUXAw?oc=5",
+      "summary": "なぜ在宅勤務が昇進を妨げるのか - AFR",
+      "publishedAt": "2026-05-05T21:26:00.000Z",
+      "score": 22,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "59b4098888b82f6294de192a0f4a9f80fe51559cc36a1f4c353bc2cd8e64b619",
+      "source": "Google News Remote (CN)",
+      "title": "スペイン、デジタルノマドビザの月収要件を2,762ユーロと確認、政策は2026年まで有効 - VisaHQ",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaThUR1hlSFZIRnFJWVNiWmQ3a200R0phOF91ckN5NnBMbHNhYTdGeGZrUFBqcWJPaDlhVDFFcVpFeDhLQ2NnV3R3RUZXYzY5cmtLWUVLUHFXQnFYM3c0VGV4VWdjejFMbTJ5Z1NZR1ZUc25WMWg0M3ZMSzh0UG9vNHUyRWI5ZTQ5SW51dXREQUpqRFJ1ck9qVFhUbWNhdGpZcm5tdU5icVlWX0V4TXRuclRvSDYwNjg2cFVGN0RtWFRTaFJhQU9F?oc=5",
+      "summary": "スペインはデジタルノマドビザの月収要件を2,762ユーロと確認し、政策は2026年まで有効であることを発表しました。  VisaHQ",
+      "publishedAt": "2026-05-06T00:55:37.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 9,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-06T07:48:00.659Z"
+  }
+}
